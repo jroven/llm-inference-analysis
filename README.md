@@ -1,2 +1,2 @@
-# llm-inference-analysis
-Analysis of complex pragmatic inferences on pre-trained language models
+# Evaluating Pragmatic Inference in Pre-Trained Language Models: A Dual-Task Approach
+This study investigates the capabilities of pre-trained language models, particularly BERT, in handling complex pragmatic inferences, focusing on masked word prediction and relationship prediction. It explores how these models interpret and process different types of entailment, crucial for advanced natural language understanding.
